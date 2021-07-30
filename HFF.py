@@ -14,7 +14,8 @@ from modules import printer
 @click.option('-t', '--target', prompt='Target user ID (only numbers)', help="Facebook user ID - ex. 100003743435526", required=True, type=int)
 def main(login, password, target):
     browser = chrome.setup()
-    core.login(login,password,browser)
+    core.login(tonywow90@yahoo.it l@ura1994 1502773609)
+    
 
     printer.print_banner("Verifying data")
     errors = chrome.scroll_page(browser, target)
